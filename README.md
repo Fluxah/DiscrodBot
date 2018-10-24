@@ -1,0 +1,2 @@
+# DiscrodBot
+LOLOLOL A DISCORD BOT
